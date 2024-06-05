@@ -9,6 +9,7 @@ ollama serve
 
 ### Ejecutarlo en bash
 ollama pull tinyllama
+ollama pull llava
 
 ### Para preguntar
 ollama run tinyllama ....
